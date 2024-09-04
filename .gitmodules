@@ -1,0 +1,6 @@
+[submodule "GradleConcepts"]
+	path = GradleConcepts
+	url = https://github.com/nitinkc/GradleConcepts.git
+[submodule "MavenConcepts"]
+	path = MavenConcepts
+	url = https://github.com/nitinkc/MavenConcepts.git
